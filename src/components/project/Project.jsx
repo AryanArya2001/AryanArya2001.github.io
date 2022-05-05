@@ -21,7 +21,7 @@ const Project = () => {
         <div className="project__item-image">
          <img src={IMG2} alt=""/>
         </div>
-        <h3>Recognition of Object With using CNN</h3>
+        <h3>Recognition of Object using Convolutional Neural N/W</h3>
         <a href="https://github.com/AryanArya2001/ImageRecognition" className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>
