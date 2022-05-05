@@ -55,12 +55,21 @@ input,textarea{
     .contact__container{
         grid-template-columns: 1fr;
         gap: 2rem;
+       
     }
 }
+
 
 @media screen and (max-width:600px) {
     .contact__container{
         width: var(--container-width-sm);
     }
-
+    .contact__container > div{
+        position: relative;
+        right:19rem ;
+    }
+    form{
+        position: relative;
+        right: 19rem;
+    }
 }

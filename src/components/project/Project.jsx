@@ -22,14 +22,14 @@ const Project = () => {
          <img src={IMG2} alt=""/>
         </div>
         <h3>Recognition of Object With using CNN</h3>
-        <a href="https://github.com" className='btn' target='__blank'>GitHub</a>
+        <a href="https://github.com/AryanArya2001/ImageRecognition" className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>
         <div className="project__item-image">
          <img src={IMG3} alt=""/>
         </div>
         <h3>Fake News Classification using Natural Language Processing</h3>
-        <a href="https://github.com" className='btn' target='__blank'>GitHub</a>
+        <a href="https://github.com/AryanArya2001/NewsClassification" className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>
         <div className="project__item-image">

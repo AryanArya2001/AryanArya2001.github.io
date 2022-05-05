@@ -73,5 +73,10 @@
     .experience__content{
         position: relative;
         left:2px;
+        grid-template-columns: 1fr;
     }
+   .experience__heading{
+       position: relative;
+       top: 12rem;
+   }
 }
