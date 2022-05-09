@@ -3,6 +3,7 @@ import './project.css'
 import IMG1 from '../../assessts/pic1.JPG'
 import IMG2 from '../../assessts/pic2.png'
 import IMG3 from '../../assessts/pic3.png'
+import IMG4 from '../../assessts/pic4.png'
 const Project = () => {
   return (
  <section id='project'>
@@ -33,9 +34,9 @@ const Project = () => {
       </article>
       <article className='project__item'>
         <div className="project__item-image">
-         <img src={IMG1} alt=""/>
+         <img src={IMG4} alt=""/>
         </div>
-        <h3>Fake News Classification using Natural Language Processing</h3>
+        <h3>Netflix Clone Using React</h3>
         <a href="https://github.com" className='btn' target='__blank'>GitHub</a>
       </article>
     </div>
