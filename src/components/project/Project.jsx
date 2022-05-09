@@ -15,21 +15,21 @@ const Project = () => {
         <div className="project__item-image">
          <img src={IMG1} alt=""/>
         </div>
-        <h3>Handwritten Digit Classification Using CNN</h3>
+        <h3>Handwritten Digit Classification Using Convolutional Neural Network</h3>
         <a href="https://github.com/AryanArya2001/Handwritten-Digit-Classification-using-CNN." className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>
         <div className="project__item-image">
          <img src={IMG2} alt=""/>
         </div>
-        <h3>Recognition of Object using Convolutional Neural N/W</h3>
+        <h3>Recognition of Object using Convolutional Neural Network (CNN)</h3>
         <a href="https://github.com/AryanArya2001/ImageRecognition" className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>
         <div className="project__item-image">
          <img src={IMG3} alt=""/>
         </div>
-        <h3>Fake News Classification using Natural Language Processing</h3>
+        <h3>Fake News Classification using Natural Language Processing (NLP)</h3>
         <a href="https://github.com/AryanArya2001/NewsClassification" className='btn' target='__blank'>GitHub</a>
       </article>
       <article className='project__item'>

@@ -21,6 +21,7 @@
     height: 200px;
     
 }
+
 .project__item h3{
      margin: 1.2rem 0 2rem;
      
@@ -39,4 +40,17 @@
         grid-template-columns: 1fr 1fr ;
         gap: 1rem;
     }
+    .project__item-image{
+        width:  100%;
+        height: 50%;
+}
+  .project__item >h3{
+      position: relative;
+      bottom: 95px;
+  }
+  .btn{
+      position: relative;
+      bottom: 115px;
+      left: 10px;
+  }
 }
