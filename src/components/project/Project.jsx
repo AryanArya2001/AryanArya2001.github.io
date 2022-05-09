@@ -36,7 +36,7 @@ const Project = () => {
         <div className="project__item-image">
          <img src={IMG4} alt=""/>
         </div>
-        <h3>Netflix Clone Using React</h3>
+        <h3>Fully Responsive Netflix Clone of Netflix Website Using React</h3>
         <a href="https://github.com" className='btn' target='__blank'>GitHub</a>
       </article>
     </div>
