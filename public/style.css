@@ -29,6 +29,11 @@
     font-size: 3rem;
     font-family: 'Bree Serif', serif;
 }
+.intro-cen{
+    color: rgb(227,242,255);
+    font-size: 3rem;
+    font-family: 'Bree Serif', serif;
+}
 
 .hide{
     background: black;
@@ -40,6 +45,14 @@
     display: inline-block ;
 }
 
-.writer{
-
+@media screen and (max-width:600px) {
+    
+    .intro-text{
+        position: fixed;
+        left: 50px;
+    }
+    .sj{
+        position: fixed;
+        left: 140px;
+    }
 }
